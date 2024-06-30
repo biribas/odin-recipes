@@ -1,2 +1,2 @@
 # Odin Recipes
-## See a preview [here](https://ilovebooks.gitlab.io/the-odin-project/recipes).
+Implementation of [Recipes](https://www.theodinproject.com/lessons/foundations-recipes) for [The Odin Project](https://www.theodinproject.com).
