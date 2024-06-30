@@ -1,2 +1,2 @@
 # Odin Recipes
-Implementation of [Recipes](https://www.theodinproject.com/lessons/foundations-recipes) for [The Odin Project](https://www.theodinproject.com).
+[Recipes](https://www.theodinproject.com/lessons/foundations-recipes) solution for [The Odin Project](https://www.theodinproject.com).
